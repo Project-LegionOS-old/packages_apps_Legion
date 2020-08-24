@@ -913,6 +913,9 @@
     <string name="qstile_circleoutline">CircleOutline</string>
     <string name="qstile_neon">Neon Light</string>
     <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_cosmos">Shishu Cosmos</string>
+    <string name="qstile_divided">Divided Circle</string>
+    <string name="qstile_oos">Oxygen</string>
 
     <!-- Qs Tile Icon Bright-Dark -->
     <string name="qs_icon_primary_title">Qs Tile Icon Bright|Dark</string>
