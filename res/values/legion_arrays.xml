@@ -653,6 +653,8 @@
         <item>@string/fod_recog_animation_pureview_molecular</item>
 	<item>@string/fod_recog_animation_bluefirework</item>
         <item>@string/fod_miui_neon_recognizing_anim</item>
+        <item>@string/fod_miui_aurora_cas_recognizing_anim</item>
+        <item>@string/fod_miui_star_cas_recognizing_anim</item>
     </string-array>
     <string-array name="fod_recog_animation_values" translatable="false">
         <item>0</item>
@@ -673,6 +675,8 @@
 	<item>15</item>
         <item>16</item>
         <item>17</item>
+        <item>18</item>
+        <item>19</item>
      </string-array>
 
     <!-- Toast Animation -->

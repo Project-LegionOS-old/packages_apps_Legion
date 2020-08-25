@@ -720,7 +720,7 @@
     <string name="fod_recog_animation">Recognizing animation</string>
     <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
     <string name="fod_recog_animation_effect_title">Recognizing animation effect</string>
-    <string name="fod_recog_animation_miui_normal">MIUI default</string> 
+    <string name="fod_recog_animation_miui_normal">MIUI Default</string> 
     <string name="fod_recog_animation_miui_aod">AOD</string>
     <string name="fod_recog_animation_miui_light">Light</string>
     <string name="fod_recog_animation_miui_pop">Pop</string>
@@ -734,10 +734,12 @@
     <string name="fod_recog_animation_op_wave">Wave</string>
     <string name="fod_recog_animation_pureview_dna">DNA</string>
     <string name="fod_recog_animation_pureview_future">Future</string>
-    <string name="fod_recog_animation_pureview_halo_ring">Halo ring</string> 
+    <string name="fod_recog_animation_pureview_halo_ring">Halo Ring</string> 
     <string name="fod_recog_animation_pureview_molecular">Molecular</string>
     <string name="fod_recog_animation_bluefirework">Blue Fireworks</string>
     <string name="fod_miui_neon_recognizing_anim">MIUI Neon</string>
+    <string name="fod_miui_aurora_cas_recognizing_anim">MIUI Star</string>
+    <string name="fod_miui_star_cas_recognizing_anim">MIUI Glow</string>
 
     <!-- FOD pressed state behavior -->
     <string name="fod_pressed_state_title">FOD pressed state behavior</string>
