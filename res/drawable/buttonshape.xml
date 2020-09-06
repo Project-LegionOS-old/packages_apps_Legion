@@ -18,5 +18,5 @@
         android:bottomRightRadius="13dp"
         android:bottomLeftRadius="13dp" />
 
-    <solid android:color="?android:attr/colorPrimary" />
+    <solid android:color="#33CFCFCF" />
 </shape> 
